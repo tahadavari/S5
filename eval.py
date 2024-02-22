@@ -1,4 +1,6 @@
 
-a = 10
-b = 20
+a =  10
+b = 30
 print(a+b)
+
+print("salam")
